@@ -1,4 +1,4 @@
-# Detecting-COVID-19-from-Medical-X-Ray-Images
+# Detecting COVID-19 from Medical X-Ray Images
 Detecting COVID-19 from Medical X-Ray Images (CS 4701 - Practicum in AI - Project)
 
 Since we are living in a time with an ongoing COVID-19 pandemic, I decided to work on this project because
